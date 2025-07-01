@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FF1493;
+    background-color:#FF1493;
     color: #FF1493;
     line-height: 1.6;
 }
@@ -35,14 +35,14 @@ body {
 }
 
 .button.secondary {
-    background-color: #fff;
-    color: #007bff;
-    border: 2px solid #007bff;
+    background-color: #FF1493;
+    color:#FF1493 ;
+    border: 2px solid #FF1493 ;
 }
 
 .button.secondary:hover {
-    background-color: #007bff;
-    color: #fff;
+    background-color:#FF1493;
+    color:#FF1493;
     transform: translateY(-2px);
     box-shadow: 0 3px 10px rgba(0, 123, 255, 0.2);
 }
