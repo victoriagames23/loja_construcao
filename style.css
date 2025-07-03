@@ -102,7 +102,7 @@ body {
 
 .main-nav a {
     text-decoration: none;
-    color: #FF1493;
+    color:#FFC0CB;
     font-weight: bold;
     transition: color 0.3s ease-in-out;
 }
@@ -155,7 +155,7 @@ body {
 /* Hero Section */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://via.placeholder.com/1200x400/777777/ffffff?Text=Imagem+Hero') center/cover no-repeat;
-    color: #fff;
+    color: #FF1493;
     padding: 100px 0;
     text-align: center;
 }
