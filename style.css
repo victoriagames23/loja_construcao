@@ -21,8 +21,8 @@ body {
     border-radius: 8px;
     font-weight: bold;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    background-color: #eee;
-    color: #333;
+    background-color: #FFB6C1;
+    color: #FFB6C1;
 }
 
 .button.primary {
