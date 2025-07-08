@@ -27,7 +27,7 @@ body {
 
 .button.primary {
     background-color: #FF1493;
-    color: #FF1493;
+    color: #ffffff;
     border: 2px solid #FF1493 ;
 }
 
@@ -38,8 +38,8 @@ body {
 
 .button.secondary {
     background-color: #FF1493;
-    color:#FF1493 ;
-    border: 2px solid #FF1493 ;
+    color: #ffffff;
+    border: 2px solid #FF1493;
 }
 
 .button.secondary:hover {
