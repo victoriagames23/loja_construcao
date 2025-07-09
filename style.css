@@ -242,11 +242,10 @@ body {
 
 /* Call to Action */
 .call-to-action {
-    background-color: #ffb6c1;
-    color:#FF1493;
+    background-color: #C71585;
+    color: #FF1493;
     padding: 80px 0;
     text-align: center;
-    
     background-blend-mode: overlay;
 }
 
